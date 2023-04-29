@@ -2,8 +2,8 @@ name: Build wheels
 
 on:
   push:
-    tags:
-      - '*'
+    branches:
+      - vtece4564
   workflow_dispatch:
 
 jobs:
