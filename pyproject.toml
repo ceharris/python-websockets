@@ -25,8 +25,7 @@ classifiers = [
     "Programming Language :: Python :: 3.11",
 ]
 readme = "README.md"
-#version = "11.0.3+ffc2cc4"
-version = "11.0.3.post1"
+version = "11.0.2.post1"
 
 [project.urls]
 Homepage = "https://github.com/python-websockets/websockets"
